@@ -1,0 +1,8 @@
+dongia1=int(input())
+soluong1=int(input())
+dongia2=int(input())
+soluong2=int(input())
+dongia3=int(input())
+soluong3=int(input())
+trans=int(input())
+print(dongia1*soluong1+dongia2*soluong2+dongia3*soluong3+trans)
